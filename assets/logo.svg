@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 118" role="img" aria-labelledby="title">
+  <title id="title">VietComNet 2026</title>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#164f9b"/><stop offset="1" stop-color="#2c82d8"/></linearGradient></defs>
+  <path d="M24 25h62L69 44H7z" fill="#1cb6aa" opacity=".9"/>
+  <text x="8" y="42" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#174b91">VIETNAM</text>
+  <text x="8" y="84" font-family="Arial,sans-serif" font-size="54" font-style="italic" font-weight="800" fill="url(#g)">ComNet</text>
+  <text x="250" y="106" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#174b91">2026 · HANOI</text>
+  <path d="M247 56c30-23 59-23 89 0s52 22 75-2" fill="none" stroke="#1cb6aa" stroke-width="6" stroke-linecap="round" opacity=".85"/>
+</svg>
+
